@@ -4,6 +4,8 @@ Web UI to monitor oozie workflows
 This script providess a web page to help monitoring certain oozie workflows. 
 The script will get the workflow list from an text file (workflows.txt).
 
+All the Kerberos auth related actions and configs should be made in advance.
+
 ## Install Required Dependencies
 
 Run the following command in your terminal:
