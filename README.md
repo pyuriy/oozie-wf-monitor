@@ -25,3 +25,14 @@ on .env file set the folloing variables
 OOZIE_URL = "https://oozie.site.com:11443/oozie/v2/jobs"
 WORKFLOW_FILE = workflows.txt
 ```
+## Start the scipt
+
+You'll see the following message:
+
+```
+Bottle v0.13.2 server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+```
+
+Open in you browser http://127.0.0.1:8080/
