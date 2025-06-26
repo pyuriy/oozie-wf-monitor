@@ -35,4 +35,4 @@ Listening on http://127.0.0.1:8080/
 Hit Ctrl-C to quit.
 ```
 
-Open in you browser http://127.0.0.1:8080/
+Open in your browser http://127.0.0.1:8080/
