@@ -11,6 +11,11 @@ Run the following command in your terminal:
 ```bash
 pip install -r requirements.txt
 ```
+if you use proxy the following command:
+
+```bash
+C:\tmp\oozie-wf-monitor-main>pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org --proxy=http://you.proxy.com:80 -r requirements.txt
+```
 
 ## Set Up Environment Variables in a .env File
 - Create a .env file in your root folder and add the following variables:
