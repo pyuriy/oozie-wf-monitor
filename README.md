@@ -4,6 +4,8 @@ Web UI to monitor oozie workflows
 This Python script provides a web page to help monitoring certain oozie workflows. 
 The script will get the workflow list from an text file (workflows.txt).
 
+It's a kind of a pattern... you may update the scrip accordingly to meet your specific requirements.
+
 All the Kerberos auth related actions and configs should be made in advance.
 
 ## Install Required Dependencies
